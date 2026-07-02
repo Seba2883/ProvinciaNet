@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ApiInventory.Application/ApiInventory.Application.csproj" />
+    <Project Path="src/ApiInventory.Domain/ApiInventory.Domain.csproj" />
+    <Project Path="src/ApiInventory.Infrastructure/ApiInventory.Infrastructure.csproj" />
+    <Project Path="src/ApiInventory.WebApi/ApiInventory.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ApiInventario.Tests/ApiInventory.Tests.csproj" />
+  </Folder>
+</Solution>
